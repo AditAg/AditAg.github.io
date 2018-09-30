@@ -81,11 +81,12 @@ analytics:
 author:
   name             : "Adit Agarwal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Undergraduate, Computer Science and Engineering, IIT (BHU), Varanasi, India.
+                      Interests: Computer Vision, Machine Learning, Deep Learning and their cryptographic applications"
+  location         : "Presently: India"
   employer         :
   googlescholar    : ""
-  email            :
+  email            : "adit.agarwal.cse15@iitbhu.ac.in"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/adit-agarwal-9a1928110/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -222,23 +223,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
